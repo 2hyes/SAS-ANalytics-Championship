@@ -1,6 +1,6 @@
 # SAS-ANalytics-Championship
 
-<h3>1. 제 17회 SAS분석 챔피언십 입선</h3>
+<h2>1. 제 17회 SAS분석 챔피언십 입선</h2>
 <p><i>2019.09.19</i><br>
 
 
